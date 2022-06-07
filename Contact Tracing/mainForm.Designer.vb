@@ -47,6 +47,7 @@ Partial Class mainForm
         Me.emailLabel = New System.Windows.Forms.Label()
         Me.submitButton = New System.Windows.Forms.Button()
         Me.resetButton = New System.Windows.Forms.Button()
+        Me.messageLabel = New System.Windows.Forms.Label()
         Me.genderInput.SuspendLayout()
         Me.travelledInput.SuspendLayout()
         Me.contactInput.SuspendLayout()
@@ -295,7 +296,7 @@ Partial Class mainForm
         Me.submitButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.submitButton.Font = New System.Drawing.Font("Courier New", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.submitButton.ForeColor = System.Drawing.Color.White
-        Me.submitButton.Location = New System.Drawing.Point(313, 603)
+        Me.submitButton.Location = New System.Drawing.Point(313, 641)
         Me.submitButton.Margin = New System.Windows.Forms.Padding(0)
         Me.submitButton.Name = "submitButton"
         Me.submitButton.Size = New System.Drawing.Size(145, 41)
@@ -309,7 +310,7 @@ Partial Class mainForm
         Me.resetButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.resetButton.Font = New System.Drawing.Font("Courier New", 12.0!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point)
         Me.resetButton.ForeColor = System.Drawing.Color.White
-        Me.resetButton.Location = New System.Drawing.Point(12, 618)
+        Me.resetButton.Location = New System.Drawing.Point(12, 656)
         Me.resetButton.Margin = New System.Windows.Forms.Padding(0)
         Me.resetButton.Name = "resetButton"
         Me.resetButton.Size = New System.Drawing.Size(69, 26)
@@ -317,12 +318,23 @@ Partial Class mainForm
         Me.resetButton.Text = "Reset"
         Me.resetButton.UseVisualStyleBackColor = False
         '
+        'messageLabel
+        '
+        Me.messageLabel.Font = New System.Drawing.Font("Courier New", 9.75!, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point)
+        Me.messageLabel.ForeColor = System.Drawing.Color.Red
+        Me.messageLabel.Location = New System.Drawing.Point(13, 603)
+        Me.messageLabel.Name = "messageLabel"
+        Me.messageLabel.Size = New System.Drawing.Size(445, 35)
+        Me.messageLabel.TabIndex = 16
+        Me.messageLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        '
         'mainForm
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(7.0!, 15.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.AutoScroll = True
-        Me.ClientSize = New System.Drawing.Size(468, 653)
+        Me.ClientSize = New System.Drawing.Size(468, 698)
+        Me.Controls.Add(Me.messageLabel)
         Me.Controls.Add(Me.resetButton)
         Me.Controls.Add(Me.submitButton)
         Me.Controls.Add(Me.emailInput)
@@ -380,4 +392,5 @@ Partial Class mainForm
     Friend WithEvents emailLabel As Label
     Friend WithEvents submitButton As Button
     Friend WithEvents resetButton As Button
+    Friend WithEvents messageLabel As Label
 End Class
