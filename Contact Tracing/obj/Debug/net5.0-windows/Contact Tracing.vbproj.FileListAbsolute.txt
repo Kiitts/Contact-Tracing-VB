@@ -5,3 +5,14 @@ C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact 
 C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.AssemblyInfoInputs.cache
 C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.AssemblyInfo.vb
 C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.vbproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\bin\Debug\net5.0-windows\Contact Tracing.exe
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\bin\Debug\net5.0-windows\Contact Tracing.deps.json
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\bin\Debug\net5.0-windows\Contact Tracing.runtimeconfig.json
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\bin\Debug\net5.0-windows\Contact Tracing.runtimeconfig.dev.json
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\bin\Debug\net5.0-windows\Contact Tracing.dll
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\bin\Debug\net5.0-windows\ref\Contact Tracing.dll
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\bin\Debug\net5.0-windows\Contact Tracing.pdb
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.dll
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\ref\Contact Tracing.dll
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.pdb
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.genruntimeconfig.cache

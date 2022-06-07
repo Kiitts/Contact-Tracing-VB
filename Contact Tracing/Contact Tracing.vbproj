@@ -4,7 +4,7 @@
     <OutputType>WinExe</OutputType>
     <TargetFramework>net5.0-windows</TargetFramework>
     <RootNamespace>Contact_Tracing</RootNamespace>
-    <StartupObject>Sub Main</StartupObject>
+    <StartupObject>Contact_Tracing.MainLayout</StartupObject>
     <UseWindowsForms>true</UseWindowsForms>
     <MyType>WindowsForms</MyType>
   </PropertyGroup>
