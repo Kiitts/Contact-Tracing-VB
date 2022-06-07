@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.vbproj.AssemblyReference.cache
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact_Tracing.MainLayout.resources
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.vbproj.GenerateResource.cache
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.AssemblyInfo.vb
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.vbproj.CoreCompileInputs.cache
