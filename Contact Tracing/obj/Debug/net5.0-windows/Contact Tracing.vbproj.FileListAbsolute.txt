@@ -16,3 +16,4 @@ C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact 
 C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\ref\Contact Tracing.dll
 C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.pdb
 C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact Tracing.genruntimeconfig.cache
+C:\Users\User\Desktop\Kitts Things 1-1\5-2nd sem\Elective 3\Assignments\Contact Tracing\Contact Tracing\obj\Debug\net5.0-windows\Contact_Tracing.mainForm.resources
