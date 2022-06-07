@@ -1,4 +1,5 @@
 ﻿Imports Contact_Tracing.InputsController
+Imports Contact_Tracing.OutputController
 
 
 Public Class mainForm
@@ -22,6 +23,7 @@ Public Class mainForm
             messageLabel.Text = $"Please input/select properly your {failedInput}."
             Exit Sub
         End If
+        FormToText()
         messageLabel.Text = "Your form has been submitted."
     End Sub
 

@@ -1,0 +1,24 @@
+﻿Date & Time Submitted: 07/06/2022 9:36:16 PM
+Name: Johndell
+Address: asd
+Age: 12
+Gender: Male
+Travelled: No
+Have Contact: No
+Sickness: Breathing Difficulty; Cold; Fever;
+Phone Number: 12312313232
+Email Address: asda@fasd.com
+
+
+Date & Time Submitted: 07/06/2022 9:37:05 PM
+Name: asda
+Address: qwe
+Age: 22
+Gender: Female
+Travelled: Yes
+Have Contact: Yes
+Sickness: Breathing Difficulty; Cold; Fever;
+Phone Number: 22222222222
+Email Address: 
+
+
