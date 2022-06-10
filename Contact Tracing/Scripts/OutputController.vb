@@ -32,7 +32,9 @@ Module OutputController
         Next
         form.Write("Sickness:")
         For Each check As CheckBox In checkboxes
-            form.Write($" {check.Text};")
+            If check.Checked Then
+                form.Write($" {check.Text};")
+            End If
         Next
         form.WriteLine()
         form.WriteLine($"Phone Number: {mainForm.numberInput.Text}")
